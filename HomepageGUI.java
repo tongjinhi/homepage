@@ -20,8 +20,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Vector;
 
 public class HomepageGUI extends JFrame {
-	// Comment add from git
-	// DBManager
+	// DBManager, 2023-10-23
 	DBManager dbm;
 
 	// Search (Read)
