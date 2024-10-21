@@ -1,4 +1,3 @@
-package homepage;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
