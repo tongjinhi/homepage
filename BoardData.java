@@ -1,4 +1,3 @@
-package homepage;
 
 public class BoardData {
 	String boardId;
